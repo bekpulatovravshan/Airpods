@@ -1,0 +1,100 @@
+@media (max-width: 1005px) {
+    .catalog-content {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+}
+
+@media (max-width: 850px) {
+    .banner-title {
+        font-size: 80px;
+    }
+
+    .banner-section {
+        padding-block: 155px;
+    }
+
+    .banner-view {
+        padding: 7px 13px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 576px) {
+    .header-logo_img {
+        width: 80px;
+        height: 43px;
+    }
+
+    .header-nav_links {
+        display: none;
+    }
+
+    .header-icon {
+        display: none;
+    }
+
+    .burger-menu {
+        display: flex;
+    }
+
+    .banner-title {
+        font-size: 61px;
+    }
+
+    .banner-section {
+        padding-block: 130px;
+    }
+}
+
+@media (max-width: 450px) {
+    .header-logo_img {
+        width: 68px;
+        height: 36px;
+    }
+
+    .header-nav {
+        gap: 20px;
+    }
+
+    .header-nav_links {
+        font-size: 18px;
+    }
+
+    .banner-title {
+        font-size: 48px;
+    }
+
+    .banner-section {
+        padding-block: 120px;
+    }
+
+    .banner-view {
+        padding: 6px 12px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .header-nav {
+        gap: 15px;
+    }
+
+    .header-nav_links {
+        font-size: 14px;
+    }
+
+    .banner-title {
+        font-size: 38px;
+    }
+
+    .banner-view {
+        padding: 4px 10px;
+
+    }
+}
+
+@media (max-width: 360px) {
+
+}
+
